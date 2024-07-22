@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+.img-circle{
+   text-align: center;
+  
+}
+.img-circle img{
+    display: inline-block;
+    width: 300px;
+   height: 300px;
+   border-radius: 15px 20px;
+}
+h1{
+    font-size: 40px;
+    letter-spacing: 1px;
+    font-weight: 35px;
+}
+.section{
+    font-size: 20px;
+    border-top: 3px groove black;
+    padding: 20px;
+   
+}
+.section .precision{
+    column-count: 2;
+}
+.emph{
+    color: orange;
+    font-style: italic;
+}
+.date{
+    font-weight: bold;
+    display: inline;
+}
